@@ -27,7 +27,7 @@ The first steps will always be to configure your environment. That is why at the
 
 I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
 
-Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.m
 
 Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
 
