@@ -1,6 +1,6 @@
 # TOC
 
-1. [Environment configuration](#1.-Environment-configuration)
+[Environment configuration](#-Environment-configuration)
 
 
 # Learning_Path
