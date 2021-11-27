@@ -353,7 +353,7 @@ d
 
 # Learning_Path
 
-## 1.Environment configuration
+## 1. Environment configuration
 
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
 
