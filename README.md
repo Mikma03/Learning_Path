@@ -97,7 +97,7 @@ Additionally, in principle it seems necessary to have **Anaconda** on your compu
 
 Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
 
-## 1. Environment configuration
+## Environment configuration
 
 **Depending on the IDE we work with:**
 
