@@ -13,7 +13,7 @@ Usually, a DS project requires working with several languages and in several env
 
 **Depending on the IDE we work with:**
 
-### VSC
+### 1. VSC
 
 For VSC configuration, I recommend that you watch this guide, the interpreter is discussed in detail.
 
