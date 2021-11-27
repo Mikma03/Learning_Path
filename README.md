@@ -25,3 +25,7 @@ Usually, a DS project requires working with several languages and in several env
   >For Jupyter I strongly recommend go through this tutorial.
 
 [Link to YT tutorial](https://www.youtube.com/watch?v=DKiI6NfSIe8&ab_channel=ProjectDataScience)
+
+  >And great examples and topics of using Jupyter.
+
+[jupyter_notebooks_collections](https://gist.github.com/ocoyawale/54d92fd4bf92508a2a6e482b5fa480fd#julia)
