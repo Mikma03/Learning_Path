@@ -117,3 +117,75 @@ Usually, a DS project requires working with several languages and in several env
   >And great examples and topics of using Jupyter.
 
 [jupyter_notebooks_collections](https://gist.github.com/ocoyawale/54d92fd4bf92508a2a6e482b5fa480fd#julia)
+
+The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+
+Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
+The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+
+Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
+The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+
+Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
+The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+
+Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
+The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+
+Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
+The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+
+Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
+The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+
+Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
+The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+
+Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
+The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+
+Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
+The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+
+Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+
+Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
+
