@@ -15,6 +15,6 @@ Usually, a DS project requires working with several languages and in several env
 
 ### 1. VSC
 
-For VSC configuration, I recommend that you watch this guide, the interpreter is discussed in detail.
+  >For VSC configuration, I recommend that you watch this guide, the interpreter is discussed in detail.
 
 [Link to YT tutorial](https://www.youtube.com/watch?v=UTQp6mvhb0Y&ab_channel=freeCodeCamp.org)
