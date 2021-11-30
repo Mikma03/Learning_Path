@@ -6,7 +6,7 @@
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
 
 
-## Environment configuration
+# Environment configuration
 
 **Depending on the IDE we work with:**
 
@@ -27,7 +27,7 @@ The first steps will always be to configure your environment. That is why at the
 
 [jupyter_notebooks_collections](https://gist.github.com/ocoyawale/54d92fd4bf92508a2a6e482b5fa480fd#julia)
 
-### PyCharm
+### 1.3. PyCharm
 
   >The best video explaining PyCharm IDE could be find here (ofc in my opinion):
 
