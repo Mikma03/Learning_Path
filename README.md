@@ -1,10 +1,6 @@
-# TOC
+# Table of contents
 
 [Environment configuration](#Environment-configuration)
-
-
-# Learning_Path
-
 
 
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
