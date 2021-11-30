@@ -1,6 +1,7 @@
 # Table of contents
 
-[Environment configuration](#Environment-configuration)
+1. [Environment configuration](#Environment-configuration)
+1.1. [Version and path in system](##Version and path in system)
 
 
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
@@ -33,7 +34,7 @@ The first steps will always be to configure your environment. That is why at the
 
 [PyCharm Tutorial](https://www.youtube.com/watch?v=hc50ALh_x5g&t=1s&ab_channel=Amigoscode)
 
-## Another part of the useful settings
+## Version and path in system
 
 ### Julia
 
