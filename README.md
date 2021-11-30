@@ -30,6 +30,13 @@ The first steps will always be to configure your environment. That is why at the
 
 [jupyter_notebooks_collections](https://gist.github.com/ocoyawale/54d92fd4bf92508a2a6e482b5fa480fd#julia)
 
+   >Jupyter extension:
+
+[GitHub Page](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+
+[Setp by step instruction how to install](https://www.codegrepper.com/code-examples/shell/installing+hinterland+for+jupyter+without+anaconda)
+
+
 ### 1.3. PyCharm - the best IDE for Python Dev
 
   >The best video explaining PyCharm IDE could be find here (ofc in my opinion):
