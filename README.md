@@ -17,6 +17,7 @@ The first steps will always be to configure your environment. That is why at the
   >For VSC configuration, I recommend that you watch this guide, the interpreter is discussed in detail.
 
 [Link to YT tutorial](https://www.youtube.com/watch?v=UTQp6mvhb0Y&ab_channel=freeCodeCamp.org)
+
 [Shorter version of really good tutorial](https://www.youtube.com/watch?v=-nh9rCzPJ20&t=631s&ab_channel=CoreySchafer)
 
 ### 1.2. Jupyter Notebook
