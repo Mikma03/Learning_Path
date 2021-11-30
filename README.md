@@ -36,6 +36,14 @@ The first steps will always be to configure your environment. That is why at the
 
 [PyCharm Tutorial](https://www.youtube.com/watch?v=hc50ALh_x5g&t=1s&ab_channel=Amigoscode)
 
+### 1.4. Conda 
+
+   >Intro to Anaconda and conda.
+
+[YT tutorial_first](https://www.youtube.com/watch?v=23aQdrS58e0&ab_channel=Academind)
+
+[YT tutorial_second](https://www.youtube.com/watch?v=ZXrUfNwPOe4&ab_channel=SebastianMantey)
+
 ## Version and path in system
 
 ### Julia
