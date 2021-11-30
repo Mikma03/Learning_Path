@@ -57,9 +57,9 @@ The first steps will always be to configure your environment. That is why at the
 [Best post I've found](https://blog.finxter.com/how-to-check-your-python-version/)
 
 
-I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter**.
+I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter** and that is very usefull for any DS project.
 
-Additionally, in principle it seems necessary to have **Anaconda** on your computer.
+Additionally, in principle it seems necessary to have **Anaconda** on your computer so good to know basic comands and functions od **conda** [tutorial first](https://www.youtube.com/watch?v=23aQdrS58e0&ab_channel=Academind), [tutorial second](https://www.youtube.com/watch?v=ZXrUfNwPOe4&ab_channel=SebastianMantey).
 
 Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
