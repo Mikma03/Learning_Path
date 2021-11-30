@@ -58,6 +58,9 @@ The first steps will always be to configure your environment. That is why at the
 
 [Best post I've found](https://blog.finxter.com/how-to-check-your-python-version/)
 
+   > Virtual Environments
+
+[YouTube Tutorial and explanation](https://www.youtube.com/watch?v=APOPm01BVrk&ab_channel=CoreySchafer)
 
 I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter** and that is very usefull for any DS project.
 
