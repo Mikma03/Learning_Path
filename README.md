@@ -3,7 +3,7 @@
 1. [Environment configuration](#Environment-configuration)
 
     1.1. [Version and path in system](#Version-and-path-in-system)
-
+2. [Next section](#Next-section)
 
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
 
@@ -70,6 +70,9 @@ The first steps will always be to configure your environment. That is why at the
    > Virtual Environments
 
 [YouTube Tutorial and explanation](https://www.youtube.com/watch?v=APOPm01BVrk&ab_channel=CoreySchafer)
+
+
+# Next section
 
 I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter** and that is very usefull for any DS project.
 
