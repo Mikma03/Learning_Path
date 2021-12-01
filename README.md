@@ -8,6 +8,9 @@
 
 2. [Summary](#Summary)
 
+3. [Usefull shortcuts](#Usefull-shortcuts)
+
+
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
 
 
