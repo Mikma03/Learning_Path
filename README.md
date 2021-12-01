@@ -17,7 +17,7 @@ At the very beginning it could be helpfull be familiar with PowerShell and Windo
 
 [Windows CMD_sheet_1](https://www.makeuseof.com/tag/essential-windows-cmd-commands/)
 
-[Windows CMD_sheet_1](https://www.reddit.com/r/coolguides/comments/bfp2oc/essential_windows_cmd_command_you_should_know/)
+[Windows CMD_sheet_2](https://www.reddit.com/r/coolguides/comments/bfp2oc/essential_windows_cmd_command_you_should_know/)
 
 
 [PowerShell](https://www.comparitech.com/net-admin/powershell-cheat-sheet/)
