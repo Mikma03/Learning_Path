@@ -107,3 +107,28 @@ Additionally, in principle it seems necessary to have **Anaconda** on your compu
 
 Usually, a DS project requires working with several languages and in several environments, so it is worth having a well-configured workplace from the very beginning.
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
+
+
+# Usefull shortcuts
+
+## VSC
+
+Komenda "cls" - czyści terminal w VSC
+ctrl + shift + p - otwiera wiersz polecenia
+ctrl + ` - otwiera terminal
+python -m venv venv - stowrzenie virtualnego środowiska
+ctrl + alt + n - runuje kod pythonowy
+
+## Pycharm
+ctrl + D - dubluje ostatnią linijke
+ctrl + alt + L - formatuje kod
+shift + shift - otwiera 
+ctrl + shift + F - wyszukuje
+ctrl + shift + E
+shift + F6 - rename file
+Ctrl+Shift+R - replace in path
+
+
+## Jupyter
+
+esc + m - z kodu przechodzi do markdown
