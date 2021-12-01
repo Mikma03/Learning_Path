@@ -10,6 +10,8 @@
 
 3. [Usefull shortcuts](#Usefull-shortcuts)
 
+4. [Version control](#Version-control)
+5. 
 
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
 
@@ -148,3 +150,7 @@ Ctrl+Shift+R - replace in path
 ## Jupyter
 
 esc + m - z kodu przechodzi do markdown
+
+
+
+# Version control
