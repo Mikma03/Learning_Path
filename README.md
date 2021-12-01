@@ -55,6 +55,9 @@ The first steps will always be to configure your environment. That is why at the
 2. To update anaconda type conda update conda.
 3. If you want to upgrade between major python version like 3.5 to 3.6, you'll have to do conda install python=$pythonversion$
 
+[Conda Cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+
+
 ## Version and path in system
 
 ### Julia
