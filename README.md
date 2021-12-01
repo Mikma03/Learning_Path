@@ -1,7 +1,6 @@
 # Table of contents
 
 1. [Environment configuration](#Environment-configuration)
-
     1.1. [Version and path in system](#Version-and-path-in-system)
 2. [Next section](#Next-section)
 
@@ -9,6 +8,16 @@ The first steps will always be to configure your environment. That is why at the
 
 
 # Environment configuration
+
+At the very beginning it could be helpfull be familiar with PowerShell and Windows CMD
+
+[Windows CMD_sheet_1](https://www.makeuseof.com/tag/essential-windows-cmd-commands/)
+
+[Windows CMD_sheet_1](https://www.reddit.com/r/coolguides/comments/bfp2oc/essential_windows_cmd_command_you_should_know/)
+
+
+[PowerShell](https://www.comparitech.com/net-admin/powershell-cheat-sheet/)
+
 
 **Depending on the IDE we work with:**
 
