@@ -114,19 +114,32 @@ The first steps will always be to configure your environment. That is why at the
 ## VSC
 
 Komenda "cls" - czyści terminal w VSC
+
 ctrl + shift + p - otwiera wiersz polecenia
+
 ctrl + ` - otwiera terminal
+
 python -m venv venv - stowrzenie virtualnego środowiska
+
 ctrl + alt + n - runuje kod pythonowy
 
+
 ## Pycharm
+
 ctrl + D - dubluje ostatnią linijke
+
 ctrl + alt + L - formatuje kod
+
 shift + shift - otwiera 
+
 ctrl + shift + F - wyszukuje
+
 ctrl + shift + E
+
 shift + F6 - rename file
+
 Ctrl+Shift+R - replace in path
+
 
 
 ## Jupyter
