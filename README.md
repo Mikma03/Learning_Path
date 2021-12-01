@@ -6,7 +6,7 @@
     1.1. [Version and path in system](#Version-and-path-in-system)
 
 
-2. [Next section](#Next-section)
+2. [Summary](#Summary)
 
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
 
@@ -99,7 +99,7 @@ At the very beginning it could be helpfull be familiar with PowerShell and Windo
 [YouTube Tutorial and explanation](https://www.youtube.com/watch?v=APOPm01BVrk&ab_channel=CoreySchafer)
 
 
-# Next section
+# Summary
 
 I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter** and that is very usefull for any DS project.
 
