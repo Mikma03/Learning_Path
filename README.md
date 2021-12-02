@@ -154,3 +154,7 @@ esc + m - z kodu przechodzi do markdown
 
 
 # Version control
+
+In this matter I cannot highlight how important is version control. Main part of day to day GIT flow can be found here. This is my epository with examples and code.
+
+[link to my repo](https://github.com/Mikma03/Git_GitHub)
