@@ -11,6 +11,7 @@
 3. [Usefull shortcuts](#Usefull-shortcuts)
 
 4. [Version control](#Version-control)
+
 5. 
 
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
@@ -18,7 +19,7 @@ The first steps will always be to configure your environment. That is why at the
 
 # Environment configuration
 
-At the very beginning it could be helpfull be familiar with PowerShell and Windows CMD
+At the very beginning it could be helpfull to be familiar with PowerShell and Windows CMD
 
 [Windows CMD_sheet_1](https://www.makeuseof.com/tag/essential-windows-cmd-commands/)
 
@@ -27,8 +28,9 @@ At the very beginning it could be helpfull be familiar with PowerShell and Windo
 
 [PowerShell](https://www.comparitech.com/net-admin/powershell-cheat-sheet/)
 
+[Complete PowerShell tutorial](https://www.youtube.com/watch?v=UVUd9_k9C6A&ab_channel=Nerd%27slesson)
 
-**Depending on the IDE we work with:**
+**Depending on the IDE**
 
 ### 1.1. VSC
 
@@ -106,7 +108,7 @@ At the very beginning it could be helpfull be familiar with PowerShell and Windo
 
 # Summary
 
-I myself use *PyCharm* and **VSC**. For these two **IDEs** it is possible to install **Jupyter** and that is very usefull for any DS project.
+I myself use **PyCharm** and **VSC**. For these two **IDE's** it is possible to install **Jupyter** and this is very usefull for most DS project.
 
 Additionally, in principle it seems necessary to have **Anaconda** on your computer so good to know basic comands and functions od **conda** [tutorial first](https://www.youtube.com/watch?v=23aQdrS58e0&ab_channel=Academind), [tutorial second](https://www.youtube.com/watch?v=ZXrUfNwPOe4&ab_channel=SebastianMantey).
 
@@ -151,10 +153,13 @@ Ctrl+Shift+R - replace in path
 
 esc + m - z kodu przechodzi do markdown
 
+[Article about shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 
 
 # Version control
 
-In this matter I cannot highlight how important is version control. Main part of day to day GIT flow can be found here. This is my epository with examples and code.
+In this matter I cannot highlight how important is version control. Main part of day to day GIT flow can be found here. This is my repo with examples and commands.
 
 [link to my repo](https://github.com/Mikma03/Git_GitHub)
+
+There are several tutorial and couses taht links could be find on my repo.
