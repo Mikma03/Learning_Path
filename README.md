@@ -12,7 +12,8 @@
 
 4. [Version control](#Version-control)
 
-5. 
+5. [Debuging](#Debuging)
+
 
 The first steps will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
 
@@ -120,26 +121,26 @@ The first steps will always be to configure your environment. That is why at the
 
 ## VSC
 
-Komenda "cls" - czyści terminal w VSC
+Command "cls" - clears the terminal in VSC
 
-ctrl + shift + p - otwiera wiersz polecenia
+ctrl + shift + p - opens a command prompt
 
-ctrl + ` - otwiera terminal
+ctrl + `- opens a terminal
 
-python -m venv venv - stowrzenie virtualnego środowiska
+python -m venv venv - creating a virtual environment
 
-ctrl + alt + n - runuje kod pythonowy
+ctrl + alt + n - runs python code
 
 
 ## Pycharm
 
-ctrl + D - dubluje ostatnią linijke
+ctrl + D - duplicate the last line
 
-ctrl + alt + L - formatuje kod
+ctrl + alt + L - formats the code
 
-shift + shift - otwiera 
+shift + shift - opens
 
-ctrl + shift + F - wyszukuje
+ctrl + shift + F - search
 
 ctrl + shift + E
 
@@ -163,3 +164,9 @@ In this matter I cannot highlight how important is version control. Main part of
 [link to my repo](https://github.com/Mikma03/Git_GitHub)
 
 There are several tutorial and couses taht links could be find on my repo.
+
+# Debuging
+
+[Link1](https://www.youtube.com/watch?v=7qZBwhSlfOo&ab_channel=TechWithTim)
+
+[Link2](https://www.youtube.com/watch?v=6cOsxaNC06c&ab_channel=VisualStudioCode)
