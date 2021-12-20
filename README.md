@@ -4,7 +4,7 @@
 
 2. [Version and path in system](#Version-and-path-in-system)
 
-3. [About IDE's](#About-IDE-'-s)
+3. [About IDE's](#About-IDE's)
 
 4. [Usefull shortcuts](#Usefull-shortcuts)
 
@@ -208,3 +208,20 @@ Software documentation is written text or illustration that accompanies computer
 
 [Link to webpage](https://www.gitbook.com/)
 
+
+# Python_Learning
+
+## Introduction
+
+
+## Useful materials
+
+
+
+## Practising
+
+
+
+## Usefull materials and resources
+
+Python: Modules and Packages [Link](https://www.youtube.com/watch?v=UK97NoQK23k&ab_channel=DamianT.Gordon)
