@@ -4,7 +4,7 @@
 
 2. [Version and path in system](#Version-and-path-in-system)
 
-3. [About IDE's](#About-IDE's)
+3. [About IDE's](#About-IDE-'-s)
 
 4. [Usefull shortcuts](#Usefull-shortcuts)
 
