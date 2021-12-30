@@ -138,6 +138,8 @@ The first step will always be to configure your environment. That is why at the 
 
 ## VSC
 
+[Shortcuts - keyboard](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
 Command "cls" - clears the terminal in VSC
 
 ctrl + shift + p - opens a command prompt
@@ -168,7 +170,6 @@ Ctrl+Shift+R - replace in path
 
 ## Jupyter
 
-esc + m - from code goes to markdown
 
 [Article about shortcuts in Jypyter](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 
@@ -272,3 +273,5 @@ Getting clean data to reveal insights is essential, as directly jumping into dat
 ## Usefull resources
 
 Python: Modules and Packages [Link](https://www.youtube.com/watch?v=UK97NoQK23k&ab_channel=DamianT.Gordon)
+
+
