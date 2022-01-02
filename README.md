@@ -274,4 +274,7 @@ Getting clean data to reveal insights is essential, as directly jumping into dat
 
 Python: Modules and Packages [Link](https://www.youtube.com/watch?v=UK97NoQK23k&ab_channel=DamianT.Gordon)
 
+## Virtual environment
+
+Explanation how to create virtual env form terminal [Linkfor Polish speaker](https://www.infoshareacademy.online/products/python-poczatek/categories/4280693/posts/14370710)
 
