@@ -286,8 +286,19 @@ Additionally, when creating our own solution, it is worth taking care of the "re
 
 [More info about dependency](https://www.infoshareacademy.online/products/python-poczatek/categories/4280693/posts/14370704)
 
-## pipenv
+## pipenv - configuration
 
 [Link to pipenv explanation](https://www.infoshareacademy.online/products/python-poczatek/categories/4280693/posts/14370709)
 
+## CI / CD
+
+Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. It’s a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run.
+
+[More info about CI](https://www.atlassian.com/continuous-delivery/continuous-integration)
+
+Continuous delivery is a software development practice where code changes are automatically prepared for a release to production. A pillar of modern application development, continuous delivery expands upon continuous integration by deploying all code changes to a testing environment and/or a production environment after the build stage. When properly implemented, developers will always have a deployment-ready build artifact that has passed through a standardized test process. 
+
+Continuous delivery lets developers automate testing beyond just unit tests so they can verify application updates across multiple dimensions before deploying to customers. These tests may include UI testing, load testing, integration testing, API reliability testing, etc. This helps developers more thoroughly validate updates and pre-emptively discover issues. With the cloud, it is easy and cost-effective to automate the creation and replication of multiple environments for testing, which was previously difficult to do on-premises.
+
+[More info about CD](https://aws.amazon.com/devops/continuous-delivery/)
 
