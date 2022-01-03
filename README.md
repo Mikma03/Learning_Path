@@ -14,6 +14,7 @@
 
 7. [Documenation](#Documenation)
 
+8. [Python Learning](#Python_Learning)
 
 The first step will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
 
@@ -277,4 +278,16 @@ Python: Modules and Packages [Link](https://www.youtube.com/watch?v=UK97NoQK23k&
 ## Virtual environment
 
 Explanation how to create virtual env form terminal [Linkfor Polish speaker](https://www.infoshareacademy.online/products/python-poczatek/categories/4280693/posts/14370710)
+
+## Dependency management
+
+When installing libraries from external sources, it is worth reading the documentation of a given library first to find out what additional libraries will be downloaded in the package.
+Additionally, when creating our own solution, it is worth taking care of the "requirements" file so that another programmer knows what libraries are needed to run our application.
+
+[More info about dependency](https://www.infoshareacademy.online/products/python-poczatek/categories/4280693/posts/14370704)
+
+## pipenv
+
+[Link to pipenv explanation](https://www.infoshareacademy.online/products/python-poczatek/categories/4280693/posts/14370709)
+
 
