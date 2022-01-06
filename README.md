@@ -277,6 +277,15 @@ Python: Modules and Packages [Link](https://www.youtube.com/watch?v=UK97NoQK23k&
 
 ## Virtual environment
 
+By default, any Python interpreter that you've installed runs in its own global environment, which is not specific to any one project. For example, if you just run python (Windows) or python3 (macOS/Linux) at a new command prompt, you're running in that interpreter's global environment. Accordingly, any packages that you install or uninstall affect the global environment and all programs that you run within that context.
+
+Although working in the global environment is an easy way to get started, that environment will, over time, become cluttered with many different packages that you've installed for different projects. Such clutter makes it difficult to thoroughly test an application against a specific set of packages with known versions, which is exactly the kind of environment you'd set up on a build server or web server.
+
+For this reason, developers often create a virtual environment for a project. A virtual environment is a subfolder in a project that contains a copy of a specific interpreter. When you activate the virtual environment, any packages you install are installed only in that environment's subfolder. When you then run a Python program within that environment, you know that it's running against only those specific packages. Be aware that if you're not using a virtual environment, and you have multiple versions of Python installed and set in the path environment variable, you might need to specify the Python interpreter to use in the terminal for installing packages to the global environment.
+
+[Python environment in VSC](https://code.visualstudio.com/docs/python/environments)
+
+
 Explanation how to create virtual env form terminal [Linkfor Polish speaker](https://www.infoshareacademy.online/products/python-poczatek/categories/4280693/posts/14370710)
 
 ## Dependency management
