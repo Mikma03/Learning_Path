@@ -225,7 +225,7 @@ As for the Python courses that I have taken and each of these courses has its ow
 
     - Bill Lubanovis Book, Ian Ozsvald Book, Michael Walker Book
 
-- JetBrains - Python Core - a very extensive course covering the entire spectrum of work in Python
+- JetBrains - Python Core - a very extensive course covering the entire spectrum of work in Python 
 
 ## Useful materials
 
