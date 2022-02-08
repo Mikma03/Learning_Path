@@ -334,3 +334,8 @@ Instalation tutorial and brief explanation: [Link](https://www.youtube.com/watch
 
 Ubuntu and Docker installation [link](https://www.youtube.com/watch?v=h0Lwtcje-Jo&ab_channel=BeachcastsProgrammingVideos)
 
+
+# Linux
+
+
+>[Intro to wls2](https://www.youtube.com/watch?v=4emmQuY25aY)
