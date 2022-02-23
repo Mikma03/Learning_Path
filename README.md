@@ -321,6 +321,9 @@ User code can raise built-in exceptions. This can be used to test an exception h
 
 [More info about exeptions](https://docs.python.org/3/library/exceptions.html)
 
+## Data structures
+
+Link to tutorial [YT_Link](https://www.youtube.com/watch?v=pkYVOmU3MgA&t=1s)
 # PowerShell
 
 This comprehensive guide starts with the basics before moving on to advanced topics, including asynchronous processing, desired state configuration, using more complex scripts and filters, debugging issues, and error-handling techniques. Explore how to efficiently manage substantial amounts of data and interact with other services using PowerShell 7.1. This book will help you to make the most of PowerShell's automation features, using different methods to parse data, manipulate regular expressions, and work with Windows Management Instrumentation (WMI).
