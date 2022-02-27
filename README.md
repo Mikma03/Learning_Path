@@ -1,3 +1,5 @@
+# Learning path
+
 # Table of contents
 
 1. [Environment configuration](#Environment-configuration)
@@ -16,10 +18,27 @@
 
 8. [Python Learning](#Python_Learning)
 
+9. [PowerShell](#PowerShell)
+
+10. [Docker](#Docker)
+
+11. [Linux](#Linux)
+
+12. [Databases systems](#Databases-systems)
+
+<p>&nbsp;</p>
+
+# Introduction
+
+<p>&nbsp;</p>
+
 The first step will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
 
+<p>&nbsp;</p>
 
 # Environment configuration
+
+<p>&nbsp;</p>
 
 At the very beginning, it could be helpful to be familiar with PowerShell and Windows CMD
 
@@ -35,11 +54,15 @@ At the very beginning, it could be helpful to be familiar with PowerShell and Wi
 
 [Complete PowerShell tutorial](https://www.youtube.com/watch?v=UVUd9_k9C6A&ab_channel=Nerd%27slesson)
 
+<p>&nbsp;</p>
 
 **Depending on the IDE**
 
+<p>&nbsp;</p>
+
 ### 1.1. VSC - Visual Studio COde
 
+<p>&nbsp;</p>
 
   >For VSC configuration, I recommend that you watch this guide, the interpreter is discussed in detail.
 
@@ -93,8 +116,11 @@ At the very beginning, it could be helpful to be familiar with PowerShell and Wi
 
 [Conda Cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
+<p>&nbsp;</p>
 
 # Version and path in system
+
+<p>&nbsp;</p>
 
 ### Julia
 
@@ -122,8 +148,11 @@ At the very beginning, it could be helpful to be familiar with PowerShell and Wi
 
 [Tutorial and explanation](https://www.youtube.com/watch?v=APOPm01BVrk&ab_channel=CoreySchafer)
 
+<p>&nbsp;</p>
 
 # About IDE's
+
+<p>&nbsp;</p>
 
 I use **PyCharm** and **VSC**. For these two **IDE's** it is possible to install **Jupyter** and this is very useful for most Data Science projects.
 
@@ -134,8 +163,11 @@ Usually, a Data Science project requires working with several languages and in s
 
 The first step will always be to configure your environment. That is why at the very beginning of learning and development in programming, and later in DS, it is to configure the environment.
 
+<p>&nbsp;</p>
 
 # Usefull shortcuts
+
+<p>&nbsp;</p>
 
 ## VSC
 
@@ -174,8 +206,11 @@ Ctrl+Shift+R - replace in path
 
 [Article about shortcuts in Jypyter](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 
+<p>&nbsp;</p>
 
 # Version control
+
+<p>&nbsp;</p>
 
 In software engineering, version control (also known as revision control, source control, or source code management) is a class of systems responsible for managing changes to computer programs, documents, large web sites, or other collections of information. Version control is a component of software configuration management.
 
@@ -185,7 +220,11 @@ In this matter I cannot highlight how important is version control. Main part of
 
 There are several tutorial and couses taht links could be find on my repo.
 
+<p>&nbsp;</p>
+
 # Debugging
+
+<p>&nbsp;</p>
 
 Definition: Debugging is the process of detecting and removing of existing and potential errors (also called as 'bugs') in a software code that can cause it to behave unexpectedly or crash. To prevent incorrect operation of a software or system, debugging is used to find and resolve bugs or defects.
 
@@ -200,7 +239,12 @@ The two tutorials below show how to debug in the IDE developed by Microsoft - VS
 
 Debugging is available in virtually every IDE. It's quite fun to use these functions - in the Python aspect - thanks to JetBrains.
 
+<p>&nbsp;</p>
+
 # Documenation
+
+
+<p>&nbsp;</p>
 
 Software documentation is written text or illustration that accompanies computer software or is embedded in the source code. The documentation either explains how the software operates or how to use it, and may mean different things to people in different roles.
 
@@ -210,8 +254,12 @@ Software documentation is written text or illustration that accompanies computer
 
 [Link to webpage](https://www.gitbook.com/)
 
+<p>&nbsp;</p>
 
 # Python_Learning
+
+
+<p>&nbsp;</p>
 
 There are repositories on my GitHub that contain Python courses implementation. Mainly my GitHub is devoted to everything related to Data Science and Machine Learning, but basically it is necessary to program at a high level. In my opinion, this is not a Senior Python Developer level, but any code we use should be known to us and understood by us.
 
@@ -324,21 +372,54 @@ User code can raise built-in exceptions. This can be used to test an exception h
 ## Data structures
 
 Link to tutorial [YT_Link](https://www.youtube.com/watch?v=pkYVOmU3MgA&t=1s)
+
+<p>&nbsp;</p>
+
 # PowerShell
+
+<p>&nbsp;</p>
 
 This comprehensive guide starts with the basics before moving on to advanced topics, including asynchronous processing, desired state configuration, using more complex scripts and filters, debugging issues, and error-handling techniques. Explore how to efficiently manage substantial amounts of data and interact with other services using PowerShell 7.1. This book will help you to make the most of PowerShell's automation features, using different methods to parse data, manipulate regular expressions, and work with Windows Management Instrumentation (WMI).
 
-[Link to book that cover almost all topics](https://www.packtpub.com/product/mastering-powershell-scripting-fourth-edition/9781800206540)
+- Mastering PowerShell Scripting
+    - https://www.packtpub.com/product/mastering-powershell-scripting-fourth-edition/9781800206540
 
+<p>&nbsp;</p>
 
 # Docker
 
-Instalation tutorial and brief explanation: [Link](https://www.youtube.com/watch?v=Ls81yWRLKV8&list=PLXR4DLU29ix0wC4vzX6A8qnyZPXJ7YFTH&index=2&ab_channel=LearnComputerTechnologies)
+<p>&nbsp;</p>
 
-Ubuntu and Docker installation [link](https://www.youtube.com/watch?v=h0Lwtcje-Jo&ab_channel=BeachcastsProgrammingVideos)
+Instalation tutorial and brief explanation: 
 
+- Docker Tutorial
+    - https://www.youtube.com/watch?v=Ls81yWRLKV8
+
+- Ubuntu and Docker installation
+    - https://www.youtube.com/watch?v=h0Lwtcje-Jo
+
+<p>&nbsp;</p>
 
 # Linux
 
+<p>&nbsp;</p>
 
->[Intro to wls2](https://www.youtube.com/watch?v=4emmQuY25aY)
+One of the most important skills that should be learn... Linux
+
+- Intro to wls2
+    - https://www.youtube.com/watch?v=4emmQuY25aY
+
+
+<p>&nbsp;</p>
+
+# Databases systems
+
+<p>&nbsp;</p>
+
+The Big Data Revolution would not be possible without the Database Revolution.
+That is why it is so important to understand the architecture of the current databases.
+I have created a whole repository devoted to this issue:
+
+- SQL and DataBases - Architekture and practical examples
+
+    - https://github.com/Mikma03/DataBase_Management
