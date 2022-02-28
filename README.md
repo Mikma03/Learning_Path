@@ -379,7 +379,11 @@ Link to tutorial [YT_Link](https://www.youtube.com/watch?v=pkYVOmU3MgA&t=1s)
 
 <p>&nbsp;</p>
 
-This comprehensive guide starts with the basics before moving on to advanced topics, including asynchronous processing, desired state configuration, using more complex scripts and filters, debugging issues, and error-handling techniques. Explore how to efficiently manage substantial amounts of data and interact with other services using PowerShell 7.1. This book will help you to make the most of PowerShell's automation features, using different methods to parse data, manipulate regular expressions, and work with Windows Management Instrumentation (WMI).
+This comprehensive guide starts with the basics before moving on to advanced topics, including asynchronous processing, desired state configuration, using more complex scripts and filters, debugging issues, and error-handling techniques. 
+
+Explore how to efficiently manage substantial amounts of data and interact with other services using PowerShell 7.1. This book will help you to make the most of PowerShell's automation features, using different methods to parse data, manipulate regular expressions, and work with Windows Management Instrumentation (WMI).
+
+<p>&nbsp;</p>
 
 - Mastering PowerShell Scripting
     - https://www.packtpub.com/product/mastering-powershell-scripting-fourth-edition/9781800206540
@@ -423,3 +427,19 @@ I have created a whole repository devoted to this issue:
 - SQL and DataBases - Architekture and practical examples
 
     - https://github.com/Mikma03/DataBase_Management
+
+
+<p>&nbsp;</p>
+
+# API
+
+<p>&nbsp;</p>
+
+- APIs for Beginners - YouTube
+  - https://www.youtube.com/watch?v=GZvSYJDk-us
+  - https://github.com/craigsdennis/intro-to-apis-course/blob/master/course-notes.md
+
+<p>&nbsp;</p>
+
+- Python API Development
+  - https://www.youtube.com/watch?v=0sOvCWFmrtA&t=79s
